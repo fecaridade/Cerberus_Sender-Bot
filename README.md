@@ -1,2 +1,2 @@
-# Cerberus---C-T-Sender-Bot
+# Cerberus C&T Sender Bot
 Bot Auxiliar Para Turma de C&amp;T UFRN
